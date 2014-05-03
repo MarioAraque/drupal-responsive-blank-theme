@@ -1,0 +1,13 @@
+name = Responsive HTML5 blank theme
+description = Responsive HTML5 blank theme to start Drupal Projects
+core = 7.x
+
+;-------------------- C S S -----------------------
+stylesheets[all][] = css/style.css
+
+;----------------- R E G I O N S ------------------
+regions[header] = Header
+regions[top] = Top
+regions[content] = Content
+regions[sidebar_first] = Sidebar
+regions[footer] = Footer

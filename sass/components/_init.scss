@@ -1,0 +1,9 @@
+$max-width: em(1368);
+
+// Neat Breakpoints
+///////////////////////////////////////////////////////////////////////////////
+$tablet-screen: em(1280);
+$mobile-screen: em(768);
+
+$tablet: new-breakpoint(max-width $tablet-screen 6);
+$mobile: new-breakpoint(max-width $mobile-screen 4);
