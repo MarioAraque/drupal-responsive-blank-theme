@@ -12,8 +12,14 @@ gem install sass
 ```
 gem install bourbon
 ```
-* Neat: gem install neat
-* Bitters: gem install bitters
+* Neat: 
+```
+gem install neat
+```
+* Bitters:
+```
+gem install bitters
+```
 
 How to use
 ==========
