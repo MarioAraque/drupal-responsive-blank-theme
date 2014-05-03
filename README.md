@@ -4,8 +4,14 @@ A blank theme based in SASS, Bourbon, Neat and Bitters.
 
 Requisites
 ==========
-* SASS: gem install sass
-* Bourbon: gem install bourbon
+* SASS: 
+```
+gem install sass
+```
+* Bourbon: 
+```
+gem install bourbon
+```
 * Neat: gem install neat
 * Bitters: gem install bitters
 
